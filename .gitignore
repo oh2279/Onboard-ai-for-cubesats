@@ -1,0 +1,13 @@
+inference_results/
+outputs/
+raw_images/
+temp/
+tiles_384x384
+*.zip
+*.TIF
+
+cloud_detection/backup/*
+cloud_detection/current/*
+cloud_detection/inference_results/*
+cloud_detection/logs/*
+cloud_detection/raw_images/*
